@@ -1,1 +1,8 @@
 /* Your custom css code goes here */
+.mystyle01 {
+    color: #ffffff;
+    font-family: "Rubik", sans-serif;
+    margin: 1.414em 0 0.5em;
+    font-weight: inherit;
+    line-height: 1.2;
+  }
